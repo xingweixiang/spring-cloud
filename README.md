@@ -3,7 +3,7 @@ spring-cloud微服务架构
 ## 说明
      Spring Cloud微服务架构开发实战源码
      
-![Spring_Cloud](./images/springcloudlogo.jpg)<br>
+![Spring_Cloud](/images/springcloudlogo.jpg)<br>
 
 * 利用开源部署的前后端项目 http://49.235.46.98:8080
 * Gradle与Maven的对比：Maven支持多模块构建，Gradle支持多项目构建。依赖管理Gradle的编写较简短，在性能比对中，在Gradle团队做的性能测试用报告中，Gradle比Maven快10倍以上。
