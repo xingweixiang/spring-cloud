@@ -1,7 +1,8 @@
 # spring-cloud
 spring-cloud微服务架构
 ## 说明
-     Spring Cloud微服务架构开发实战源码
+     Spring Cloud微服务架构开发实战源码<br>
+     利用开源部署的前后端项目 http://49.235.46.98:8080
 ![Spring_Cloud](./images/spring-cloud-logo.jpg)<br>
 
 
